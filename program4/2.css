@@ -1,0 +1,15 @@
+body {
+
+}
+h1 {
+ color: black;
+ }
+ p{
+  color: black;
+ }
+ 
+ table, th, td {
+        background-color: yellow;
+        boarder-style: solid;
+        border-width: 1px;
+        boarder-color: black;}
